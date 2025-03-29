@@ -21,6 +21,7 @@
 ||psaupsaistepsy.net^
 /^https?:\/\/(?:ak\.)?[a-z]{6,15}\.(?:com|net)\/(?:1|4)\/\d{7}/$doc,frame,popup
 /^https?:\/\/(?:ak\.)?[a-z]{6,15}\.(?:com|net)\/(?:1|4)\/\d{7}/$document
+/^https?:\/\/[a-z]{6,15}\.[a-z]{2,3}\/5\/\d{6,7}(?:\?_=\d+|\/\??)?$/$script,3p
 ||javbabe.net/x1x/
 /?rb=*&zoneid=$xhr,popup,3p
 &zoneid=*&rb=$xhr,3p
