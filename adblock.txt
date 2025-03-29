@@ -1,0 +1,20 @@
+! Title: Firedown Hosts
+! Last modified: 2025-03-29T08:08:30.548Z
+! ..............
+!  |URL: https://github.com/laestrygonian/Adblock
+!  |Count: 4 rules!
+!  |Size: 0 MB
+!  |
+!  |Credits & ©: https://o0.pages.dev/-data/lists/assets.txt
+!  |Licence: MPLv2,
+!  | https://www.mozilla.org/en-US/MPL/2.0/
+!  /
+! ( Please report any issues related to this file.
+!  \......................................
+!  | GH: github.com/laestrygonian/Adblock/issues
+!  \____________________
+
+||adw9.com^
+||tuxashopicket.com^
+||62ad.com^
+||vainaistaujoupt.com^
