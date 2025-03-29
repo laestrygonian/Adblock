@@ -20,6 +20,11 @@
 ||62ad.com^
 ||vainaistaujoupt.com^
 ||psaupsaistepsy.net^
+||count-server.sharethis.com^
+||sysmeasuring.net^
+/ajax/banner/vpn|$xmlhttprequest
+/ajax/banners?page=$~third-party,xmlhttprequest
+/ajax/embed-4/banners|$xmlhttprequest
 /^https?:\/\/(?:ak\.)?[a-z]{6,15}\.(?:com|net)\/(?:1|4)\/\d{7}/$doc,frame,popup
 /^https?:\/\/(?:ak\.)?[a-z]{6,15}\.(?:com|net)\/(?:1|4)\/\d{7}/$document
 /^https?:\/\/[a-z]{6,15}\.[a-z]{2,3}\/5\/\d{6,7}(?:\?_=\d+|\/\??)?$/$script,3p
